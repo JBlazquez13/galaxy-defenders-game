@@ -1,2 +1,2 @@
 # galaxy-defenders-game
-videojuego multiplataforma llamado Galaxy Defenders, un arcade shooter en 2D donde los jugadores defienden la galaxia de oleadas de naves enemigas.
+videojuego multiplataforma llamado Galaxy Defenders2, un arcade shooter en 2D donde los jugadores defienden la galaxia de oleadas de naves enemigas.
